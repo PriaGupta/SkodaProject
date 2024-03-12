@@ -2,7 +2,7 @@ body{
     overflow-x: hidden;
 }
 .nav {
-    background-color: pink;
+    background-color: #0d392f;
 	padding: 14px 56px;
 	justify-content: space-between;
 }
@@ -660,10 +660,10 @@ figure {
     font-size: 24px;
 }
 @media (min-width: 992px){
-.navbar-expand-lg .navbar-nav .nav-link {
+/* .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: var(--bs-navbar-nav-link-padding-x);
     padding-left: var(--bs-navbar-nav-link-padding-x);
-}
+} */
 li.nav_button {
     list-style: none;
     margin-top: 8px;
