@@ -36,7 +36,7 @@ body{
 /* ========menu head===*/
 .navbar-nav {
     padding-left: 50px;
-    gap: 25px;
+    gap: 20px;
 }
 li.nav_button {
     list-style: none;
