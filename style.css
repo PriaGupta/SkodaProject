@@ -2,7 +2,7 @@ body{
     overflow-x: hidden;
 }
 .nav {
-    background-color: #0d392f;
+    background-color: pink;
 	padding: 14px 56px;
 	justify-content: space-between;
 }
