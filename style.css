@@ -71,15 +71,11 @@ li.nav_button {
      display: none;
   }
  
- 
-
 .carpic {
     width: 100%;
-    /* max-width: 1406px; */
     object-fit: cover;
 }
 /* ========= */
-
 
 .main {
     padding: 20px 0px;
@@ -93,8 +89,7 @@ li.nav_button {
  color: #0d392f;
  font-size: 35px;
 }
-#t1{
-    
+#t1{  
         font-size: 24px;
         color: #25302d;
 }
